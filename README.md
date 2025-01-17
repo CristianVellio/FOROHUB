@@ -1,5 +1,10 @@
 # ForoHub 📢
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/900a58ce-6e7a-41ea-8b30-ac6f4096045d" alt="ForoHub" width="200" height="200">
+</div>
+
+
 ## Intro
 ForoHub is a RESTful web application built using Spring Boot, designed to facilitate the creation of topics and publication of responses within a user-centric forum. The application includes robust security features, user management, and a modular design to ensure scalability and maintainability.
 
